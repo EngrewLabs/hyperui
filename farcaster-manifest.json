@@ -1,0 +1,23 @@
+{
+  "name": "Hyperliquid Trading Terminal",
+  "description": "Trade on Hyperliquid with a modern, intuitive interface. Connect your wallet and start trading.",
+  "iconUrl": "https://hyperui.engrewlabs.org/hyperui200x200.png",
+  "splashImageUrl": "https://hyperui.engrewlabs.org/hyperui200x200.png",
+  "splashBackgroundColor": "#000000",
+  "url": "https://hyperui.engrewlabs.org",
+  "version": "1.0.0",
+  "permissions": [
+    "camera",
+    "geolocation"
+  ],
+  "screenshots": [
+    "https://hyperui.engrewlabs.org/screenshot1.png",
+    "https://hyperui.engrewlabs.org/screenshot2.png"
+  ],
+  "categories": ["finance", "trading", "defi"],
+  "author": {
+    "name": "HyperUI",
+    "url": "https://hyperui.engrewlabs.org"
+  }
+}
+
